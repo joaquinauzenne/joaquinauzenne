@@ -3,7 +3,7 @@ I am Joaquin and I am a recent graduate ('25) from the University of Texas at Au
 
 🔭 I'm currently interested in metabarcoding, neurolinguistics, and tackling biological problems through statistical and mathematical modeling. Currently, I am interested in the following problems:
 
-- How can we conserve species diversity and biological information by gathering and analyzing environmental DNA? 
+- How can we conserve species diversity and biological information by gathering and analyzing environmental DNA?
 - How does language arise from homind neurocognitive evolution? What analogs exist to human language in other species?
 - How can predictive mathematical modeling inform our understanding of biological structures like DNA and proteins?
 
