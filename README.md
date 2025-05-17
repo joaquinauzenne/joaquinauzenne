@@ -5,7 +5,7 @@ I am Joaquin and I am a recent graduate ('25) from the University of Texas at Au
 
 - How can we conserve species diversity and biological information by gathering and analyzing environmental DNA?
 - How does language arise from homind neurocognitive evolution? What analogs exist to human language in other species?
-- How can predictive mathematical modeling inform our understanding of biological structures like DNA and proteins?
+- How can predictive modeling inform our understanding of biological structures like DNA and proteins?
 
 🌱 I’m currently learning continuum mechanics, functional analysis for applied mathematicians, and biological sequence analysis.
 
