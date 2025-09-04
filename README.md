@@ -1,13 +1,11 @@
 Hello and Welcome! 👋
-I am Joaquin and I am a recent graduate ('25) from the University of Texas at Austin in BS Mathematics and BS Computational Biology. My academic webpage is {WIP}.
+I am Joaquin and I am a recent graduate ('25) from the University of Texas at Austin in BS Mathematics and BS Computational Biology.
 
-🔭 I'm currently interested in metabarcoding for conservation efforts and species identification, understanding the evolution of language in primates, neurolinguistics, and (generally) tackling hard interdisciplinary problems through applications of mathematics (i.e. statistics, modeling, analysis). Currently, I am interested in the following problems:
+🔭 I'm currently interested in metabarcoding for conservation efforts and species identification, understanding the evolution of language in primates and neurolinguistics, and (generally) tackling hard interdisciplinary problems through applications of mathematics (i.e. statistics, modeling, analysis, etc). Currently, I am interested in the following problems:
 
-- How can we conserve species diversity and biological information from habitats by gathering and analyzing environmental DNA?
-- How does language arise from homind neurocognitive evolution? What analogs exist to human language in other species and are there convergent structures enabling 'language-like' communication in other species?
-- How can predictive modeling inform our understanding of biological structures like DNA and proteins?
+In my "free-time"...
 
-🌱 I’m currently learning continuum mechanics, (re-learning) functional analysis for applied mathematicians, and working on biological sequence analysis pipelines to improve my capabilities.
+🌱 I’m currently learning continuum mechanics, functional analysis for applied mathematicians, and working on biological sequence analysis pipelines to improve my capabilities in bioinformatics.
 
 👯 I’m looking to collaborate on exciting research projects in any field where I may apply my curiosity!
 
