@@ -5,7 +5,7 @@ I am Joaquin and I am a recent graduate ('25) from the University of Texas at Au
 
 In my "free-time"...
 
-🌱 I’m currently learning continuum mechanics, functional analysis for applied mathematicians, and working on biological sequence analysis pipelines to improve my capabilities in bioinformatics.
+🌱 I’m currently learning functional analysis for applied mathematicians and working on biological sequence analysis pipelines to improve my capabilities in bioinformatics.
 
 👯 I’m looking to collaborate on exciting research projects in any field where I may apply my curiosity!
 
