@@ -13,7 +13,7 @@ In my "free-time"...
 
 💬 I support open science, education, and scholarship. All scientific data should be [Findable, Accessible, Interoperable, and Resusable for all digital assets!]([url](https://www.go-fair.org/fair-principles/))
 
-📫 How to reach me: Email at joaquinauzenne@utexas.edu (for academic stuff) and auzenne.work@gmail.com (for other work stuff)
+📫 How to reach me: Email at joaquinauzenne[at]utexas[dot]edu (for academic stuff) and auzenne[dot]work[at]gmail.com (for other work stuff)
 
 😄 Pronouns: He / him
 
